@@ -77,9 +77,7 @@ export default function WorkingDashboard() {
           <h1 className="text-3xl font-bold text-gray-900">
              Welcome 
           </h1>
-          <p className="mt-2 text-gray-600">
-            Your authentication system is now working with direct API calls!
-          </p>
+          
         </div>
 
         {/* Success Card */}
