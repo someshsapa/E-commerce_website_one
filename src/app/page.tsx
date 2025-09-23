@@ -28,10 +28,7 @@ export default function Home() {
                     </svg>
                   </div>
                 </div>
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">Secure Authentication</h3>
-                  <p className="text-gray-600">Built-in security features with password hashing, session management, and CSRF protection.</p>
-                </div>
+                
               </div>
 
               <div className="flex items-start space-x-4">
@@ -42,10 +39,7 @@ export default function Home() {
                     </svg>
                   </div>
                 </div>
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">Real-time Database</h3>
-                  <p className="text-gray-600">Powered by Supabase with PostgreSQL and real-time subscriptions.</p>
-                </div>
+               
               </div>
 
               <div className="flex items-start space-x-4">
@@ -56,23 +50,14 @@ export default function Home() {
                     </svg>
                   </div>
                 </div>
-                <div>
-                  <h3 className="text-lg font-semibold text-gray-900">Modern UI/UX</h3>
-                  <p className="text-gray-600">Beautiful, responsive design with Tailwind CSS and smooth animations.</p>
-                </div>
+                
               </div>
             </div>
 
             <div className="bg-white rounded-lg p-6 shadow-sm border">
               <h3 className="text-lg font-semibold text-gray-900 mb-3">Get Started Today</h3>
-              <p className="text-gray-600 mb-4">
-                Join thousands of users who trust our secure authentication system.
-              </p>
-              <div className="flex flex-wrap gap-2">
-                <span className="px-3 py-1 bg-blue-100 text-blue-800 text-sm rounded-full">Free to use</span>
-                <span className="px-3 py-1 bg-green-100 text-green-800 text-sm rounded-full">No setup fees</span>
-                <span className="px-3 py-1 bg-purple-100 text-purple-800 text-sm rounded-full">24/7 support</span>
-              </div>
+              
+             
             </div>
           </div>
 
