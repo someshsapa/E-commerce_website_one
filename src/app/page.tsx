@@ -15,7 +15,7 @@ export default function Home() {
             <div className="text-center lg:text-left">
               <h1 className="text-4xl lg:text-6xl font-bold text-gray-900 mb-6">
                 Welcome to{' '}
-                <span className="text-blue-600">AuthApp</span>
+                <span className="text-blue-600">Website</span>
               </h1>
               <p className="text-xl text-gray-600 mb-8">
                 Secure, fast, and reliable authentication system built with Next.js and Supabase.
