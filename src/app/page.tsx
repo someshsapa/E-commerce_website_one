@@ -54,10 +54,7 @@ export default function Home() {
               </div>
             </div>
 
-            <div className="bg-white rounded-lg p-6 shadow-sm border">
-              <h3 className="text-lg font-semibold text-gray-900 mb-3">Get Started Today</h3>
-              
-             
+           
             </div>
           </div>
 
